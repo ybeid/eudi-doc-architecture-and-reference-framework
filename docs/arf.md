@@ -603,7 +603,7 @@ they have issued an accreditation certificate.
 
 ## 4 High level architecture
 
-This chapter provides a broad overview of a system\'s core components,
+This chapter provides a broad overview of a system's core components,
 their interfaces, and the overall design principles. Figure 2 visually
 clarifies these core components, the key entities within the Wallet high
 level architecture, and how they communicate via the primary interfaces.
@@ -617,7 +617,7 @@ the regulatory framework and enriched by industry best practices, will
 serve as fundamental guidelines. This approach ensures compliance with
 requirements emphasizing user-centricity, privacy, security, and
 cross-border interoperability. It demonstrates a commitment to both
-regulatory alignment and excellence in the EUDI Wallet\'s design.
+regulatory alignment and excellence in the EUDI Wallet's design.
 
 #### 4.1.1 User-centricity
 
